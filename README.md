@@ -17,7 +17,7 @@ Install `pyenv` package dependencies
     libncursesw5-dev xz-utils tk-dev libffi-dev liblzma-dev python-openssl libncurses5-dev \
     git
 
-Configure login scripts to load pyenv
+Configure login scripts to load `pyenv`
 
     echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.bashrc
     echo 'export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.bashrc
