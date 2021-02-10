@@ -1,4 +1,4 @@
-# GTK Demo
+# Python GTK Demo
 
 This is a GTK demo inside of a Python virtual environment.  It is known to work in Ubuntu 20.04.1 LTS.
 
@@ -40,12 +40,12 @@ Build it
 Activate it
 
     python global 3.8.6
-    
+
 Make sure the right version is active
 
     /usr/bin/env python --version
 
-## GTK Demo
+## Demo
 
 ### Install Dependencies
 
@@ -56,5 +56,3 @@ Make sure the right version is active
 ### Run the demo
 
     ./run.py
-
-
